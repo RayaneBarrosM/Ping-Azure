@@ -82,6 +82,10 @@
 ## 3. Fazendo o Ping
 - Na maquina1 copie o ip publico
 - Vá nos 3 pontinhos ao lado de perfil e abra o cloundShell
-  ```
+  
+```
 ssh user@ip.publico
-  ```
+```
+- Coloque a senha
+- Rode ``ping 10.0.0.5``
+
