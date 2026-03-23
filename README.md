@@ -57,6 +57,9 @@
 - Localize o grupo de segurança de rede
 - Clique no nome
 - Va em configurações → Regras de entrada → Adicionar
+  
+  https://github.com/RayaneBarrosM/Ping-Azure/blob/main/README.md
+  
 **Preencha os campos**
   
 | **Campo** | **Valor** |
