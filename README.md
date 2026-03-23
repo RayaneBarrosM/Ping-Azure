@@ -53,12 +53,14 @@
 - vá para a aba maquina virtual e clique em uma das maquinas
 - desça a té a seção redes
 - Lá estará o ip da sua máquina
+  ![image.png](attachment:68d69fda-56f7-4b2e-8fc7-0cb351e58836:image.png)
+  
 - No menu lateral clique em Rede → configurações de rede
 - Localize o grupo de segurança de rede
 - Clique no nome
 - Va em configurações → Regras de entrada → Adicionar
   
-  https://github.com/RayaneBarrosM/Ping-Azure/blob/main/README.md
+  ![image.png](attachment:41496023-0289-4985-a57f-5de8c16cc89c:image.png)
   
 **Preencha os campos**
   
