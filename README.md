@@ -58,7 +58,8 @@
 - Clique no nome
 - Va em configurações → Regras de entrada → Adicionar
 **Preencha os campos**
-  | **Campo** | **Valor** |
+  
+| **Campo** | **Valor** |
 | --- | --- |
 | Origem | `Qualquer` |
 | Intervalos de porta de origem | `*` |
@@ -68,4 +69,5 @@
 | Ação | `Permitir` |
 | Prioridade | Digite **`300`** |
 | Nome | Digite **`Permitir-Ping`** |
+
 - Clique em **"Adicionar"**
