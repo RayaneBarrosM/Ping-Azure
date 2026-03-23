@@ -46,13 +46,14 @@
 - **Grupo de segurança de rede**: `Básico`
 - Clique em **Revisar + criar** e depois em **Criar**
 
-## 3. Fazendo o Ping
+## 3. Configurando regras de entrada
 
 ### **1. Liberar ICMP em ambas as VMs**
 
 - vá para a aba maquina virtual e clique em uma das maquinas
 - desça a té a seção redes
 - Lá estará o ip da sua máquina
+  
   ![image.png](attachment:68d69fda-56f7-4b2e-8fc7-0cb351e58836:image.png)
   
 - No menu lateral clique em Rede → configurações de rede
@@ -76,3 +77,11 @@
 | Nome | Digite **`Permitir-Ping`** |
 
 - Clique em **"Adicionar"**
+- Faça o mesmo processo com a segunda maquina
+
+## 3. Fazendo o Ping
+- Na maquina1 copie o ip publico
+- Vá nos 3 pontinhos ao lado de perfil e abra o cloundShell
+  ```
+ssh user@ip.publico
+  ```
